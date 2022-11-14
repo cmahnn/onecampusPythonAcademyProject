@@ -1,0 +1,6 @@
+# onecampusPythonAcademyProject
+# The project is the task given to us to advance from python academy class
+# The question is embeded in the source file
+# Feel free to get your hand dirty with it
+# Reach out if you have any question regarding it
+# Thank you.
